@@ -1,32 +1,45 @@
-# code-refactoring-horiseon
+# code-refactoring-Horiseon
+  
+   
 
-## Description 
+  ##Table of Contents
+  
+   [Description](#description)
+   [Installation](#installation)
+   [Usage](#usage)
+   [Contributions](#contributions)
+   [Testing](#testing)
+   [License](#license)
+   [Github](#github)
+   [Email](#email)
+   [Links](#links)
+  
+  
 
-I combined any events in the CSS file that had the same properties.  I also relocated events to follow the HTML page.  In the index.html file, I changed the divs to follow HTML semantics.
+  ## Description
+    This application shows how to refactor code to have less lines and make it easier to read.
 
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+  ## Installation
+    Look at the code inside the HTML file.
 
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
+  ## Usage
+    There is no information on the usage for this.
 
+  ## Contributions
+    There are no contribution guidelines.
 
-## Installation
+  ## Testing
+    N/A
 
-I opened index.html in Google Chrome.
+  ## License
+  
+    
+  ## Github
+    Look for me on Github: SteveGekas
 
+  ## Email
+    For any inquiries, please email me at: s.gekas9@gmail.com
 
-## Usage 
-
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
-
-## Credits
-
-Steve Gekas
-
+  ## Links
+    https://github.com/SteveGekas/code-refactoring-Horiseon
 
